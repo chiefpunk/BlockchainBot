@@ -1,4 +1,4 @@
-stocklook
+HFTBlockChainBot
 =========
 
 A collection of utilities for working with cryptocurrency APIs.
