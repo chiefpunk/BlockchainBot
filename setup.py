@@ -13,11 +13,11 @@ dependency_links = []
 
 
 setup(
-    name="stocklook",
+    name="HFTBlockchainBot",
     packages=find_packages("."),
     description='Cryptocurrency and stock exchange analysis toolkit',
     long_description=readme,
-    url='https://github.com/zbarge/stocklook/',
+    url='https://github.com/DragonWarrior0914/BlockchainBot/',
     install_requires=install_requires,
     tests_require=[],
     dependency_links=dependency_links,
