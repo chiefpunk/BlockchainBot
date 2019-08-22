@@ -3,7 +3,7 @@ import jinja2, os
 from stocklook.controls.crypto import CryptoController
 
 
-app = Flask('stocklook',
+app = Flask('HFTBlockChainBot',
             #template_folder=os.path.join(os.path.dirname(__file__), 'templates')
             )
 app.config.from_object(__name__)
